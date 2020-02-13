@@ -1,5 +1,6 @@
 # VBA_homework
 VBA Homework: VBA scripting to analyze real stock market data
+Ann McNamara
 
 This Directory contains the following files
 Multiple_year_stock_dataAM_Final.xlsm -- The Main file containing given data and main VBA Script
